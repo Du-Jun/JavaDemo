@@ -1,1 +1,3 @@
-update -byme
+﻿update -byme
+update -byother
+
